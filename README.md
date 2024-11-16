@@ -1,6 +1,5 @@
-
+# Date:12.09.2024
 # Ex.No:5 Create Your Own Content Providers to get Contacts details.
-
 
 ## AIM:
 
